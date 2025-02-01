@@ -6,9 +6,7 @@
 
 Snipping Toolを起動するには、検索ボックスに「Snipping Tool」と入力して、アプリを起動します。
 
-:::{figure-md} open ![Open Snipping Tool](../images/screenshot/open.png)
-
-Snipping Toolの基本操作画面 :::
+<figure><img src="../../.gitbook/assets/screenshot-open.png" alt="" width="563"><figcaption><p>Snipping Toolの基本操作画面</p></figcaption></figure>
 
 ## 切り取りモード
 
@@ -19,17 +17,13 @@ Snipping Toolの基本操作画面 :::
 * 全画面表示
 * フリーフォーム
 
-:::{figure-md} mode ![Select Mode](../images/screenshot/mode.png)
-
-切り取りモードの選択 :::
+<figure><img src="../../.gitbook/assets/screenshot-mode.png" alt="" width="563"><figcaption><p>切り取りモードの選択 </p></figcaption></figure>
 
 ## 遅延切り取り
 
 遅延切り取りを選択すると、切り取りを行うまでの時間を設定できます。
 
-:::{figure-md} delay ![Select Delay](../images/screenshot/delay.png)
-
-遅延切り取りの設定 :::
+<figure><img src="../../.gitbook/assets/screenshot-delay.png" alt="" width="563"><figcaption><p>遅延切り取りの設定</p></figcaption></figure>
 
 ## スクリーンショットの撮影
 
@@ -43,17 +37,13 @@ Snipping Toolの基本操作画面 :::
 4. エクスプローラーのウインドウを開きます。
 5. ウインドウをクリックします。
 
-:::{figure-md} example ![Take a Screenshot](../images/screenshot/example.png)
-
-エクスプローラーのウインドウの選択 :::
+<figure><img src="../../.gitbook/assets/screenshot-example.png" alt="" width="563"><figcaption><p>エクスプローラーのウインドウの選択 </p></figcaption></figure>
 
 ## 保存
 
 撮ったスクリーンショットは自動的に保存されます。 Snipping Toolの画面で「…」をクリックして、「スクリーンショット　フォルダーを開く」を選択すると、保存されたスクリーンショットを確認できます。
 
-:::{figure-md} save ![Save Screenshot](../images/screenshot/save.png)
-
-スクリーンショットのフォルダーを開く :::
+<figure><img src="../../.gitbook/assets/screenshot-save.png" alt="" width="563"><figcaption><p>スクリーンショットのフォルダーを開く</p></figcaption></figure>
 
 ## ショートカット
 
