@@ -8,15 +8,15 @@
 
 デスクトップで右クリックして「新規作成」を選択すると、ファイルやフォルダーを作成することができます。フォルダーを作成する場合は、「フォルダー」を選択します。次に、フォルダーの名前を入力して、<kbd>Enter</kbd> キーを押すと、フォルダーが作成されます。
 
-<figure><img src="../.gitbook/assets/folder-manul.png" alt="" width="563"><figcaption><p>新規作成のメニュー</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/folder-manul.png" alt="" width="563"><figcaption><p>新規作成のメニュー</p></figcaption></figure>
 
 下の図は、「foo」という名前のフォルダーを作成した例です。このフォルダーを右クリックすると、切り取り、コピー、削除、名前の変更、開くなどの操作を行うことができます。
 
-<figure><img src="../.gitbook/assets/folder-operation.png" alt="" width="563"><figcaption><p>フォルダーの基本操作</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/folder-operation.png" alt="" width="563"><figcaption><p>フォルダーの基本操作</p></figcaption></figure>
 
 ファイルの新規作成も同様に行うことができます。ここでは、右クリックして「新規作成」を選択し、「テキストドキュメント」を選択します。次に、「foo」という名前を入力して、<kbd>Enter</kbd> キーを押すと、`foo.txt` という名前のテキストファイルが作成されます。このファイル名を確認するために、先ほど作成したテキストファイルを右クリックして「プロパティ」を選択し、「詳細」タブをクリックすると、ファイルの名前、種類、場所、サイズ、作成日時、更新日時などの情報が表示されます。
 
-<figure><img src="../.gitbook/assets/folder-property.png" alt="" width="337"><figcaption><p>ファイルのプロパティ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/folder-property.png" alt="" width="337"><figcaption><p>ファイルのプロパティ</p></figcaption></figure>
 
 この図を見ると、ファイルの名前が `foo.txt` で、ファイルの種類が `テキスト ドキュメント` であることがわかります。`.txt`は、テキストファイルの拡張子です。
 

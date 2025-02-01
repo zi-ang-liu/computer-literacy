@@ -6,7 +6,7 @@
 
 エクスプローラーの基本画面は次のようになっています。
 
-<figure><img src="../.gitbook/assets/explorer-basic.png" alt="" width="563"><figcaption><p>エクスプローラーの基本画面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/explorer-basic.png" alt="" width="563"><figcaption><p>エクスプローラーの基本画面</p></figcaption></figure>
 
 ## エクスプローラーの構成
 

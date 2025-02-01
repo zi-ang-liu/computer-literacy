@@ -2,7 +2,7 @@
 
 Windowsのパソコンにログインすると、最初に表示される画面が**デスクトップ**（desktop）です。
 
-<figure><img src="../.gitbook/assets/desktop-desktop.png" alt="" width="563"><figcaption><p>Windowsのデスクトップ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop-desktop.png" alt="" width="563"><figcaption><p>Windowsのデスクトップ</p></figcaption></figure>
 
 デスクトップには、以下の要素が表示されます。
 
@@ -39,7 +39,7 @@ Windowsのパソコンにログインすると、最初に表示される画面�
 
 アプリによっては、ウィンドウのデザインが異なります。例えば、メモ帳のウィンドウは以下のようになります。メモ帳のタイトルバーにあるボタンをクリックしてみましょう。
 
-<figure><img src="../.gitbook/assets/desktop-notepad.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/desktop-notepad.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 電源の操作
 

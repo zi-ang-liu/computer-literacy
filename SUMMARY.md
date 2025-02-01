@@ -18,10 +18,11 @@
 
 ## 操作編 <a href="#operations" id="operations"></a>
 
-* [デスクトップ](operations/desktop.md)
-* [ファイルとフォルダー](operations/folders.md)
-* [エクスプローラー](operations/explorer.md)
-* [スクリーンショット](operations/screenshot.md)
+* [基本操作](operations/ji-ben-cao-zuo/README.md)
+  * [デスクトップ](operations/ji-ben-cao-zuo/desktop.md)
+  * [ファイルとフォルダー](operations/ji-ben-cao-zuo/folders.md)
+  * [エクスプローラー](operations/ji-ben-cao-zuo/explorer.md)
+  * [スクリーンショット](operations/ji-ben-cao-zuo/screenshot.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 
