@@ -8,6 +8,7 @@
 
 デスクトップで右クリックして「新規作成」を選択すると、ファイルやフォルダーを作成することができます。フォルダーを作成する場合は、「フォルダー」を選択します。次に、フォルダーの名前を入力して、<kbd>Enter</kbd> キーを押すと、フォルダーが作成されます。
 
+
 :::{figure-md} new
 <img src="./images/explorer/new.png" alt="Create New Folder" width="600px">
 
