@@ -19,6 +19,7 @@
 ## 操作編 <a href="#operations" id="operations"></a>
 
 * [デスクトップ](operations/desktop.md)
+* [ファイルとフォルダー](operations/files-and-folders.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 
