@@ -6,7 +6,7 @@
 {% step %}
 Visual Studio Codeの[ダウンロードページ](https://code.visualstudio.com/download)にアクセスし、Windows用のインストーラーをダウンロードします。&#x20;
 
-<figure><img src="../../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/download.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -16,37 +16,37 @@ Visual Studio Codeの[ダウンロードページ](https://code.visualstudio.com
 {% step %}
 「同意する」にチェックを入れ、「次へ」をクリックします。
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 インストール先のフォルダを指定し、「次へ」をクリックします。
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 スタートメニューフォルダの指定画面で、「次へ」をクリックします。
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 追加タスクの選択画面で、「次へ」をクリックします。
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 「インストール」をクリックします。
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 インストールが完了すると、「完了」をクリックします。
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
