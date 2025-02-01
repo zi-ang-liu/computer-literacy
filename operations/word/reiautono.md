@@ -6,15 +6,11 @@
 
 文字列の方向を変更するには、「レイアウト」タブから「ページ設定」グループにある「文字列の方向」を選択します。以下の図のように、「縦」、「横」が選択できます。
 
-:::{figure-md} direction&#x20;
-
-文字列の方向 :::
-
-<figure><img src="../../.gitbook/assets/word-layout-direction.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/word-layout-direction.png" alt="" width="563"><figcaption><p>文字列の方向</p></figcaption></figure>
 
 「余白」を選択すると、以下の図のように余白の設定ができます。「標準」、「狭い」、「広い」などの既定の余白設定が用意されています。また、「ユーザー設定の余白」を選択すると、上下左右の余白を自由に設定できます。
 
-<figure><img src="../../.gitbook/assets/word-layout-margin.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/word-layout-margin.png" alt="" width="563"><figcaption><p>余白の設定</p></figcaption></figure>
 
 「サイズ」を選択すると、以下の図のように用紙サイズの設定ができます。「A4」、「B5」、「A3」などの既定の用紙サイズが用意されています。
 
