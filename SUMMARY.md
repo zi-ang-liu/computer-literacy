@@ -20,6 +20,8 @@
 
 * [デスクトップ](operations/desktop.md)
 * [ファイルとフォルダー](operations/folders.md)
+* [エクスプローラー](operations/explorer.md)
+* [スクリーンショット](operations/screenshot.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 
