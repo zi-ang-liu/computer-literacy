@@ -15,3 +15,11 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## 操作編 <a href="#operations" id="operations"></a>
+
+* [デスクトップ](operations/desktop.md)
+
+## 理論編 <a href="#theory" id="theory"></a>
+
+* [Page 2](theory/page-2.md)
