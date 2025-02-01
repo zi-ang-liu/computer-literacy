@@ -27,7 +27,9 @@
   * [メモ帳](operations/input/notepad.md)
   * [キーボード](operations/input/keyboard.md)
   * [日本語入力](operations/input/japanese.md)
-* [電子メール](operations/email.md)
+* [インターネット](operations/internet/README.md)
+  * [電子メール](operations/internet/email.md)
+  * [生成AI](operations/internet/gen-ai.md)
 * [コマンドライン](operations/command.md)
 * [Wordによる文書作成](operations/wordniyoru.md)
 
