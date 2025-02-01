@@ -50,3 +50,9 @@
 * [データベース](theory/dtabsu.md)
 * [ネットワーク](theory/nettowku.md)
 * [人工知能](theory/ren-gong-zhi-neng.md)
+
+## Appendix
+
+* [PowerShell](appendix/powershell.md)
+* [Visual Studio Code](appendix/visual-studio-code/README.md)
+  * [インストール](appendix/visual-studio-code/insutru.md)
