@@ -1,5 +1,5 @@
 ---
-icon: network-wired
+icon: chart-network
 ---
 
 # インターネット

@@ -2,9 +2,7 @@
 
 新規Word文書を作成するには、検索ボックスに「Word」と入力して、Wordを選択します。Wordを起動したら、次のような画面が表示されます。ここには、「白紙の文書」、「カレンダー」などのテンプレートが用意されています。その下にある「その他のテンプレート」を選択すると、「請求書」、「賞状」などさらに多くのテンプレートが用意されています。
 
-:::{figure-md} word\_start&#x20;
-
-Wordの起動画面 :::
+<figure><img src="../../.gitbook/assets/word-new-start.png" alt=""><figcaption><p>Wordの起動画面</p></figcaption></figure>
 
 一般的な文書を作成する場合は、「白紙の文書」を選択します。ここでは、「白紙の文書」を選択して、新規Word文書を作成します。
 
@@ -12,9 +10,7 @@ Wordの起動画面 :::
 
 Wordの画面は、以下のように構成されています。下の図では、Wordの起動画面で「白紙の文書」を選択した後の画面を示しています。
 
-:::{figure-md} word\_blank&#x20;
-
-白紙の文書 :::
+<figure><img src="../../.gitbook/assets/word-new-blank.png" alt=""><figcaption><p>白紙の文書</p></figcaption></figure>
 
 * クイックアクセスツールバー（Quick Access Toolbar）：よく使う機能のアイコンが表示されている
 * リボン（Ribbon）

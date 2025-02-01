@@ -18,13 +18,13 @@ Windowsでは、マイクロソフト日本語IME (Input Method Editor)を用い
 
 予測候補を使うと、入力する文字を減らすことができ、入力速度が向上します。例えば、「yoro」と入力すると、「よろしくお願いいたします。」などの予測候補が表示されます。
 
-<figure><img src="../../.gitbook/assets/prediction.png" alt="" width="375"><figcaption><p>予測候補</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ime-prediction.png" alt="" width="375"><figcaption><p>予測候補</p></figcaption></figure>
 
 #### 変換候補
 
 日本語入力モードで、「daigaku」と入力し、<kbd>Space</kbd>キーを押すと、入力内容を「大学」に変換します。もう一度<kbd>Space</kbd>キーを押すと、変換候補ウィンドウが表示されて、「大學」、「大楽」などの候補が表示されます。
 
-<figure><img src="../../.gitbook/assets/conversion.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ime-conversion.png" alt="" width="375"><figcaption></figcaption></figure>
 
 このウィンドウで<kbd>space</kbd>キーを押すと、次の候補に移動します。また、<kbd>Enter</kbd>キーを押すと、選択した候補が入力されます。
 
@@ -42,11 +42,11 @@ IMEの設定を変更するには、IMEのアイコン「A」や「あ」を右�
 
 タッチタイピングでは、基本の指の位置をホームポジションと呼ばれます。タイピングを始めるときは、各指をホームポジションに軽く置きます。
 
-<figure><img src="../../.gitbook/assets/home-position.svg" alt="" width="375"><figcaption><p>ホームポジション © <a href="https://commons.wikimedia.org/wiki/User:Cy21">Cy21</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ime-home.svg" alt="" width="375"><figcaption><p>ホームポジション © <a href="https://commons.wikimedia.org/wiki/User:Cy21">Cy21</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a> </p></figcaption></figure>
 
 タイピングをするときは、このホームポジションから指を動かして、キーを押します。キーを押したら、すぐにホームポジションに戻ります。効率的にタイピングするために、各指が担当するキーを覚えることが重要です。下の図は、各指の担当キーを示しています。
 
-<figure><img src="../../.gitbook/assets/home-position-2.png" alt="" width="348"><figcaption><p>各指の担当キー © <a href="https://commons.wikimedia.org/wiki/File:TouchTyping_HomePosition_QWERTY.png">Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ime-finger.png" alt="" width="348"><figcaption><p>各指の担当キー © <a href="https://commons.wikimedia.org/wiki/File:TouchTyping_HomePosition_QWERTY.png">Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a></p></figcaption></figure>
 
 タッチタイピングを練習するときは、まずホームポジションから指を動かして、キーボードを見ながら各キーを押します。次に、キーボードを見ずに、指の位置を覚えてタイピングします。最初はゆっくりと練習し、徐々にスピードを上げていきます。メモ帳などのアプリケーションを使って、好きな文章を入力して練習するとよいでしょう。また、無料のタッチタイピング練習サイトもありますので、利用してみてください。
 
