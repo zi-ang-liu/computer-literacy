@@ -2,10 +2,12 @@
 
 ## 日本語入力
 
-Windowsでは、マイクロソフト日本語IME (Input Method Editor)を用いて、ひらがな、カタカナ、漢字を入力することができます。 日本語のキーボードを使用する場合、<kbd>半角/全角</kbd>キーを押すと、日本語入力モードと英数字入力モードを切り替えることができます。
+Windowsでは、マイクロソフト日本語IME (Input Method Editor)を用いて、ひらがな、カタカナ、漢字を入力することができます。&#x20;
 
-{% hint style="info" %}
-全角モードでは正方形の和文活字、半角モードでは和文活字の半分の大きさの文字が入力されます。 基本、プログラミング言語では、全角文字は使用できません。また、Excelなどの表計算ソフトでは、数値の入力に全角文字を使用するとエラーが発生することがあります。
+日本語のキーボードを使用する場合、<kbd>半角/全角</kbd>キーを押すと、日本語入力モードと英数字入力モードを切り替えることができます。全角モードでは正方形の和文活字、半角モードでは和文活字の半分の大きさの文字が入力されます。
+
+{% hint style="warning" %}
+&#x20;基本、プログラミング言語では、全角文字は使用できません。また、Excelなどの表計算ソフトでは、数値の入力に全角文字を使用するとエラーが発生することがあります。
 {% endhint %}
 
 ### ローマ字入力
@@ -42,7 +44,7 @@ IMEの設定を変更するには、IMEのアイコン「A」や「あ」を右�
 
 タッチタイピングでは、基本の指の位置をホームポジションと呼ばれます。タイピングを始めるときは、各指をホームポジションに軽く置きます。
 
-<figure><img src="../../.gitbook/assets/ime-home.svg" alt="" width="375"><figcaption><p>ホームポジション © <a href="https://commons.wikimedia.org/wiki/User:Cy21">Cy21</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ime-home.svg" alt="" width="375"><figcaption><p>ホームポジション © <a href="https://commons.wikimedia.org/wiki/User:Cy21">Cy21</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a></p></figcaption></figure>
 
 タイピングをするときは、このホームポジションから指を動かして、キーを押します。キーを押したら、すぐにホームポジションに戻ります。効率的にタイピングするために、各指が担当するキーを覚えることが重要です。下の図は、各指の担当キーを示しています。
 
@@ -54,7 +56,11 @@ IMEの設定を変更するには、IMEのアイコン「A」や「あ」を右�
 * [寿司打](https://sushida.net)
 * [typing.com](https://www.typing.com/)
 
+{% hint style="info" %}
 [typing.com](https://www.typing.com/)は、英語のタッチタイピング練習サイトですが、基本的な姿勢などから丁寧に教えてくれるので、英語での説明が理解できる方におすすめです。
+{% endhint %}
+
+
 
 ### 練習
 
