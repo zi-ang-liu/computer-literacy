@@ -10,20 +10,16 @@
 
 文字列の方向 :::
 
+<figure><img src="../../.gitbook/assets/word-layout-direction.png" alt="" width="563"><figcaption></figcaption></figure>
+
 「余白」を選択すると、以下の図のように余白の設定ができます。「標準」、「狭い」、「広い」などの既定の余白設定が用意されています。また、「ユーザー設定の余白」を選択すると、上下左右の余白を自由に設定できます。
 
-:::{figure-md} margin&#x20;
-
-余白の設定 :::
+<figure><img src="../../.gitbook/assets/word-layout-margin.png" alt="" width="563"><figcaption></figcaption></figure>
 
 「サイズ」を選択すると、以下の図のように用紙サイズの設定ができます。「A4」、「B5」、「A3」などの既定の用紙サイズが用意されています。
 
-:::{figure-md} paper-size&#x20;
-
-用紙サイズの設定 :::
+<figure><img src="../../.gitbook/assets/word-layout-size.png" alt="" width="563"><figcaption><p>用紙サイズの設定</p></figcaption></figure>
 
 段組みとはページを複数の列に分けて文字をレイアウトすることです。「段組み」から「1段」、「2段」、「3段」などの段組みの設定ができます。通常は「1段」を選択しますが、新聞、雑誌などのように複数の段組みが必要な場合は、段組みの設定を変更します。
 
-:::{figure-md} column&#x20;
-
-段組みの設定 :::
+<figure><img src="../../.gitbook/assets/word-layout-column.png" alt="" width="563"><figcaption><p>段組みの設定</p></figcaption></figure>
