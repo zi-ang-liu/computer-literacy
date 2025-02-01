@@ -23,10 +23,13 @@
   * [ファイルとフォルダー](operations/basics/folders.md)
   * [エクスプローラー](operations/basics/explorer.md)
   * [スクリーンショット](operations/basics/screenshot.md)
-* [文字入力](operations/input.md)
-* [メモ帳](operations/notepad.md)
-* [キーボード](operations/keyboard.md)
-* [日本語入力](operations/japanese.md)
+* [文字入力](operations/input/README.md)
+  * [メモ帳](operations/input/notepad.md)
+  * [キーボード](operations/input/keyboard.md)
+  * [日本語入力](operations/input/japanese.md)
+* [電子メール](operations/email.md)
+* [コマンドライン](operations/command.md)
+* [Wordによる文書作成](operations/wordniyoru.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 

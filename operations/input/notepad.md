@@ -6,7 +6,7 @@
 
 メモ帳の起動したら、次のような画面が表示されます。点滅している縦棒が、カーソルです。カーソルの位置に文字が入力されます。
 
-<figure><img src="../.gitbook/assets/notepad-basic.png" alt="" width="563"><figcaption><p>メモ帳の基本画面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/notepad-basic.png" alt="" width="563"><figcaption><p>メモ帳の基本画面</p></figcaption></figure>
 
 ### 設定
 

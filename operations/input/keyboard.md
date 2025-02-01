@@ -71,7 +71,7 @@
 * <kbd>Alt</kbd> + <kbd>V</kbd>：表示
 * <kbd>Alt</kbd> + <kbd>S</kbd>：設定
 
-<figure><img src="../.gitbook/assets/keyboard-alt-notepad.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/keyboard-alt-notepad.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Windows
 
