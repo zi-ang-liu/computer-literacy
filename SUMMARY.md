@@ -23,6 +23,7 @@
   * [ファイルとフォルダー](operations/basics/folders.md)
   * [エクスプローラー](operations/basics/explorer.md)
   * [スクリーンショット](operations/basics/screenshot.md)
+  * [コマンドライン](operations/basics/command.md)
 * [文字入力](operations/input/README.md)
   * [メモ帳](operations/input/notepad.md)
   * [キーボード](operations/input/keyboard.md)
@@ -30,8 +31,10 @@
 * [インターネット](operations/internet/README.md)
   * [電子メール](operations/internet/email.md)
   * [生成AI](operations/internet/gen-ai.md)
-* [コマンドライン](operations/command.md)
-* [Wordによる文書作成](operations/wordniyoru.md)
+* [Wordによる文書作成](operations/word/README.md)
+  * [新規Word文書の作成](operations/word/wordno.md)
+* [Excelによるデータ処理](operations/excelniyorudta.md)
+* [ウェブページの作成](operations/webupjino.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 
