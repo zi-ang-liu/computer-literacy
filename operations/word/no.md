@@ -4,13 +4,11 @@
 
 ワードに日本語の文字を入力するには、メモ帳などと同様に、日本語IMEを利用します。
 
-ここでは、ワードの「貼り付け」機能について、説明します。ウェブページなどからテキストをコピーして、ワードの文書に貼り付ける方法を紹介します。以下のテキストは、Wikipediaの「[Microsoft Word](https://ja.wikipedia.org/wiki/Microsoft_Word)」のページにある文章です。テキストだけでなく、太字やリンクも含まれています。
+ここでは、ワードの「貼り付け」機能について、説明します。ウェブページなどからテキストをコピーして、ワードの文書に貼り付ける方法を紹介します。
 
-***
+以下のテキストは、Wikipediaの「[Microsoft Word](https://ja.wikipedia.org/wiki/Microsoft_Word)」のページにある文章です。テキストだけでなく、太字やリンクも含まれています。
 
-**Microsoft Word**（マイクロソフト ワード）は、 [マイクロソフト](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88) がWindows、Android、macOSおよびiOS向けに販売している [文書作成ソフトウェア](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88)。
-
-***
+> **Microsoft Word**（マイクロソフト ワード）は、 [マイクロソフト](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88) がWindows、Android、macOSおよびiOS向けに販売している [文書作成ソフトウェア](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88)。
 
 この内容を以下の手順でワードの文書に貼り付けてみましょう。
 
@@ -32,36 +30,36 @@
 
 数式を入力するには、「挿入」タブの「記号と特殊文字」グループから、「数式」を選択します。すると、「数式」タブが表示されます。
 
-:::{figure-md} formula&#x20;
-
-数式の入力 :::
+<figure><img src="../../.gitbook/assets/word-formula.png" alt=""><figcaption><p>「数式」タブ</p></figcaption></figure>
 
 「数式」タブには「ツール」、「変換」、「記号と特殊文字」、「構造」のグループがあります。「記号と特殊文字」と「構造」グループを用いて、直感的に数式を入力することができます。
 
 また、「変換」モードが「Unicode」になっています。これは、数式を入力する際に、**UnicodeMath**形式で入力することを意味します。他には「LaTex」がありますが、ここではデフォルトの「Unicode」について説明します。
 
-:::{note} $\TeX$（テフ）は、文書整形プログラムの一つです。$\TeX$にマクロパッケージを追加したものが$\LaTeX$（ラテフ）です。 理系の学術論文や書籍を作成するために、$\LaTeX$が広く利用されています。 :::
+{% hint style="info" %}
+TeX（テフ）は、文書整形プログラムの一つです。TeXにマクロパッケージを追加したものがLaTeX（ラテフ）です。 理系の学術論文や書籍を作成するために、\LaTeXが広く利用されています。
+{% endhint %}
 
 #### UnicodeMath形式
 
 ここでは、例を使って、UnicodeMath形式で数式を入力する方法を説明します。日本語システムでは、「\」を「￥」キーで入力します。「a^2 <kbd>Space</kbd>」は、a^2 を入力し、<kbd>Space</kbd>キーを押すことを意味します。以下の表を参考に、数式を入力してみましょう。
 
-|             UnicodeMath             |            表示            | 説明    |
-| :---------------------------------: | :----------------------: | ----- |
-|         a^2 <kbd>Space</kbd>        |           $a^2$          | 二乗和   |
-|        x\_1 <kbd>Space</kbd>        |          $x\_1$          | 添字    |
-|      \sqrt(a) <kbd>Space</kbd>      |        $\sqrt{a}$        | 平方根   |
-|       a/(b+c) <kbd>Space</kbd>      |      $\frac{a}{b+c}$     | 分数    |
-|       (a+b/c) <kbd>Space</kbd>      |     $(a+\frac{b}{c})$    | 括弧    |
-|       {a+b/c} <kbd>Space</kbd>      |    ${a+\frac{b}{c\}}$    | 波括弧   |
-|    \overbar(abc) <kbd>Space</kbd>   |     $\overline{abc}$     | 上線    |
-| lim\_(n->\infty) <kbd>Space</kbd> n | $\lim\_{n \to \infty} n$ | 極限    |
-|   \sum\_(i=1)^n <kbd>Space</kbd> i  |     $\sum\_{i=1}^n i$    | 総和    |
-|        sin <kbd>Space</kbd> x       |         $\sin x$         | 正弦    |
-|        cos <kbd>Space</kbd> x       |         $\cos x$         | 余弦    |
-|        tan <kbd>Space</kbd> x       |         $\tan x$         | 正接    |
-|       \alpha <kbd>Space</kbd>       |         $\alpha$         | Alpha |
-|        \beta <kbd>Space</kbd>       |          $\beta$         | Beta  |
+|             UnicodeMath             |             表示            | 説明    |
+| :---------------------------------: | :-----------------------: | ----- |
+|         a^2 <kbd>Space</kbd>        |          $$a^2$$          | 二乗和   |
+|        x\_1 <kbd>Space</kbd>        |          $$x_1$$          | 添字    |
+|      \sqrt(a) <kbd>Space</kbd>      |        $$\sqrt{a}$$       | 平方根   |
+|       a/(b+c) <kbd>Space</kbd>      |     $$\frac{a}{b+c}$$     | 分数    |
+|       (a+b/c) <kbd>Space</kbd>      |    $$(a+\frac{b}{c})$$    | 括弧    |
+|       {a+b/c} <kbd>Space</kbd>      |    $${a+\frac{b}{c}}$$    | 波括弧   |
+|    \overbar(abc) <kbd>Space</kbd>   |     $$\overline{abc}$$    | 上線    |
+| lim\_(n->\infty) <kbd>Space</kbd> n | $$\lim_{n \to \infty} n$$ | 極限    |
+|   \sum\_(i=1)^n <kbd>Space</kbd> i  |     $$\sum_{i=1}^n i$$    | 総和    |
+|        sin <kbd>Space</kbd> x       |         $$\sin x$$        | 正弦    |
+|        cos <kbd>Space</kbd> x       |         $$\cos x$$        | 余弦    |
+|        tan <kbd>Space</kbd> x       |         $$\tan x$$        | 正接    |
+|       \alpha <kbd>Space</kbd>       |         $$\alpha$$        | Alpha |
+|        \beta <kbd>Space</kbd>       |         $$\beta$$         | Beta  |
 
 #### 式番号
 
@@ -69,27 +67,21 @@
 
 例えば、`y=ax+b#(1)`と入力し、<kbd>Enter</kbd>キーを押すと、式番号`(1)`が式の右側に表示されます。
 
-:::{figure-md} formula-number&#x20;
-
-式番号の挿入 :::
+<figure><img src="../../.gitbook/assets/word-formula-number.png" alt=""><figcaption><p>式番号の挿入</p></figcaption></figure>
 
 ### 画像の挿入
 
 画像を挿入するには、「挿入」タブの「図」グループから、「画像」を選択します。すると、「画像の挿入元」が表示されます。
 
-:::{figure-md} image-source&#x20;
-
-画像の挿入元の選択 :::
+<figure><img src="../../.gitbook/assets/word-image-insert.png" alt=""><figcaption><p>画像の挿入元の選択</p></figcaption></figure>
 
 * **このデバイス...**：PC内の画像ファイルを選択して挿入します。
 * **ストック画像...**：Microsoftの提供する画像を選択して挿入します。アイコン、マンガ、イラストなどがあります。
 * **オンライン画像...**：インターネット上の画像を挿入します。
 
-ここでは、「このデバイス...」を使って、以下の画像を挿入してみます。まず、この画像を右クリックして、「名前を付けて画像を保存」で、PC内に保存します。デフォルトでは、画像は「ダウンロード」フォルダに「example.png」という名前で保存されます。
+ここでは、「このデバイス...」を使って、以下の画像を挿入してみます。まず、この画像を右クリックして、「名前を付けて画像を保存」で、PC内に保存します。デフォルトでは、画像は「ダウンロード」フォルダに「word-image-example.png」という名前で保存されます。
 
-:::{figure-md} image-example&#x20;
-
-画像の例 :::
+<figure><img src="../../.gitbook/assets/word-image-example.png" alt=""><figcaption><p>画像の例</p></figcaption></figure>
 
 ワードの画面に戻り、以下の手順で画像を挿入します。
 
@@ -101,23 +93,17 @@
 
 画像が挿入されると、「図の形式」タブが表示されます。表示されていない場合は、画像を左クリックすると表示されます。「図の形式」では、画像のスタイルやサイズなどを設定できます。
 
-:::{figure-md} image-format&#x20;
-
-「図の形式」タブ :::
+<figure><img src="../../.gitbook/assets/word-image-format.png" alt=""><figcaption><p>「図の形式」タブ</p></figcaption></figure>
 
 ### 表の作成
 
 表を挿入するには、「挿入」タブの「表」グループから、「表」を選択します。すると、表の行数と列数を選択できます。ここでは、3行4列の表を挿入してみます。
 
-:::{figure-md} table-insert&#x20;
-
-表の挿入 :::
+<figure><img src="../../.gitbook/assets/word-table-insert.png" alt=""><figcaption><p>表の挿入</p></figcaption></figure>
 
 表が挿入されると、「テーブル デザイン」と「テーブル レイアウト」タブが表示されます。必要に応じて、これらのタブを使って、表のスタイルやレイアウトを設定できます。
 
-:::{figure-md} table-design&#x20;
-
-「テーブル デザイン」と「テーブル レイアウト」タブ :::
+<figure><img src="../../.gitbook/assets/word-table-design.png" alt=""><figcaption><p>「テーブル デザイン」と「テーブル レイアウト」タブ</p></figcaption></figure>
 
 次に、表の中にテキストを入力します。<kbd>Tab</kbd>キーやマウスで、セルの移動ができます。また、学籍番号と年齢は半角で入力することを忘れないようにしましょう。
 
@@ -126,8 +112,6 @@
 | 2025001 | 山田太郎 |  20 |  理工 |
 | 2025002 | 田中花子 |  19 |  情報 |
 
-:::{figure-md} table-input&#x20;
-
-表の入力 :::
+<figure><img src="../../.gitbook/assets/word-table-input.png" alt=""><figcaption><p>表の入力</p></figcaption></figure>
 
 最後に、表のデザインを整えます。ここでは、論文で
