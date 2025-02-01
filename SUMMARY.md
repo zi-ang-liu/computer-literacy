@@ -25,7 +25,8 @@
   * [スクリーンショット](operations/basics/screenshot.md)
 * [文字入力](operations/input.md)
 * [メモ帳](operations/notepad.md)
-* [キーボード](operations/kbdo.md)
+* [キーボード](operations/keyboard.md)
+* [日本語入力](operations/japanese.md)
 
 ## 理論編 <a href="#theory" id="theory"></a>
 
